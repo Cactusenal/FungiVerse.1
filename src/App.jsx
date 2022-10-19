@@ -11,7 +11,6 @@ window.Buffer = Buffer;
 import kp from './keypair.json'
 
 // Constants
-
 // SystemProgram is a reference to the Solana runtime!
 const { SystemProgram, Keypair } = web3;
 
